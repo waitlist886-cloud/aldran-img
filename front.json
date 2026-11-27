@@ -1,0 +1,43 @@
+{
+ "repo": "waitlist886-cloud/aldran-img",
+ "shell": "9b259d5c39037f059b477f708ba22062ed976f16",
+ "books": {
+  "moon": {
+   "core": "7a2f34f736976c7b5497e10de2ac1434a1463b50",
+   "parts": {
+    "assets/cg/": "d41c694b62f5571a78bcf7715d1bf06df35129c7",
+    "assets/ps/": "b85d696a323613845bc281de90eb62d92287e62c"
+   }
+  },
+  "strife": {
+   "core": "70e36c7921d366995bf2a12ceb85a40eda856014",
+   "parts": {
+    "assets/cg/": "ba49f57946449117bfba3a985d62ea19c9f92220",
+    "assets/ps/": "2725e42a6556ed25d9b2664141a63f571da670e1"
+   }
+  },
+  "bronze": {
+   "core": "577ce5b03d87235edf6ec9123e1e6545e3ed0d21",
+   "parts": {
+    "assets/cg/": "4b4908dc6b58965ccc57a8ce83aa09f6a5fce955",
+    "assets/ps/": "e60d0dd56315686a5cb77d270c5df87ebbe83e2f"
+   }
+  },
+  "maze": {
+   "core": "0fffbcf0a3ad5bc63c1d9ac61a80cbf3acac689c",
+   "parts": {
+    "assets/cg/": "d2cf75c836610e2dbcc8989fcafb28201f83121b",
+    "assets/ps/": "d6cea715b41cfbbd94f5b2f643e37f5b7056d062",
+    "assets/pt/": "f00c943ec662522c26842593d3ed168f04baef4f"
+   }
+  },
+  "now": {
+   "core": "a53f69691c878f5a0fb86eb3ff5f0a3c0ec6d875",
+   "parts": {
+    "assets/ps/": "d9e608baa2d40cbe8d23e7d36315dfd467855f6d"
+   }
+  }
+ },
+ "n": 1795797204,
+ "g": 38
+}
